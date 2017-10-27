@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+<<<<<<< HEAD
 #include <stdio.h>
+=======
+>>>>>>> d1555e4... Initial Commit
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
